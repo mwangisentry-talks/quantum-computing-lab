@@ -1,0 +1,9 @@
+pyproject.toml
+setup.py
+src/spectator_measures/__init__.py
+src/spectator_measures/_coremodule.c
+src/spectator_measures.egg-info/PKG-INFO
+src/spectator_measures.egg-info/SOURCES.txt
+src/spectator_measures.egg-info/dependency_links.txt
+src/spectator_measures.egg-info/requires.txt
+src/spectator_measures.egg-info/top_level.txt
