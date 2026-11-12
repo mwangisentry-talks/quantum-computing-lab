@@ -1,5 +1,6 @@
 # quantum-computing-lab
 
+```text
 quantum-computing-lab/
 │
 ├── README.md
@@ -44,6 +45,8 @@ quantum-computing-lab/
 └── results/
     ├── figures/
     └── experiment_data/
+
+```
 
     ⚙️ Environment Setup
 Fedora / JupyterLab
