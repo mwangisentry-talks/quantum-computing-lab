@@ -36,6 +36,7 @@ This repository is an evolving collection of notebooks, experiments, and researc
 ## 📁 Repository Structure
 
 ```text
+
 quantum-computing-lab/
 │
 ├── README.md
@@ -80,6 +81,7 @@ quantum-computing-lab/
 └── results/
     ├── figures/
     └── experiment_data/
+
 ```
 
 | Module | Focus |
