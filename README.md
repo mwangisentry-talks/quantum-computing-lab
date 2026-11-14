@@ -112,6 +112,7 @@ Restart the kernel afterwards.
 ### 2. Verify the environment
 
 ```python
+
 import qiskit
 import qiskit_aer
 import pennylane as qml
@@ -122,6 +123,7 @@ print("Qiskit Aer:", qiskit_aer.__version__)
 print("PennyLane:", qml.__version__)
 print("Cirq:", cirq.__version__)
 print("Quantum environment ready!")
+
 ```
 
 ### 3. Check installed versions
